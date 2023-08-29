@@ -7,5 +7,5 @@
 <p align="center">Prototipo de backend de proyecto. Hecho con Nodejs, Express y MySql.</p>
 
 <h4 align="center">
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto & README en construcción :construction:
 </h4>
